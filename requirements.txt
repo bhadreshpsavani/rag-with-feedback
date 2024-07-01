@@ -1,0 +1,13 @@
+streamlit
+streamlit-feedback
+langchain
+langchain-community
+# langchain>=0.0.247 # worked
+# langchain==0.0.292
+langsmith
+chromadb
+langchain-aws
+tiktoken
+# pysqlite3-binary
+
+
